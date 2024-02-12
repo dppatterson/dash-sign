@@ -1,6 +1,6 @@
 {
   "name": "dash_sign",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "signature canvas for dash",
   "main": "build/index.js",
   "scripts": {
